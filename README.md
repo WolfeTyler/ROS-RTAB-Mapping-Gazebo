@@ -17,7 +17,7 @@ Tasks to be performed:
 
 ![RTAB-Map_kitchen.gif](https://github.com/WolfeTyler/ROS-RTAB-Mapping-Gazebo/blob/master/images/RTAB-Map_kitchen.gif)
 
-Mapping Mars Rover Gazebo World in ROS with RTAB-Map posted on youtube here:
+Mapping Mars Rover Gazebo World in ROS with RTAB-Map posted on YouTube here:
 
 [![Youtube Video](http://img.youtube.com/vi/RmjkM-wzQw8/0.jpg)](https://youtu.be/RmjkM-wzQw8)
 
